@@ -402,7 +402,7 @@
             <key code="0" output="["/>
             <key code="1" output="\"/>
             <key code="2" output="]"/>
-            <key code="3" action="a5"/>
+            <key code="3" output="ü"/>
             <key code="4" output=""/>
             <key code="5" action="a3"/>
             <key code="6" output="…"/>
@@ -982,7 +982,7 @@
             <when state="none" next="s4"/>
         </action>
         <action id="a5">
-            <when state="none" output="ü" next="s5"/>
+            <when state="none" next="s5"/>
         </action>
         <action id="a6">
             <when state="none" output="A"/>
