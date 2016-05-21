@@ -1,0 +1,17 @@
+Name = "blowrak";
+Version = "0.1";
+Author = "Daniel Svensson <dsvensson@gmail.com>";
+KLL = "0.3d";
+Date = "2016-05-21";
+
+U"Q" : U"RALT" + U"7";
+U"W" : U"RALT" + U"ISO/";
+U"E" : U"RALT" + U"0";
+U"A" : U"RALT" + U"8";
+U"S" : U"RALT" + U"MINUS";
+U"D" : U"RALT" + U"9";
+U"Z" : U"ISO/";
+U"C" : U"ISO/" + U"LSHIFT";
+U"MINUS" : U"EQUAL";
+U"RBRACE" : U"RBRACE";
+U"QUOTE" : U"BACKSLASH";
